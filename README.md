@@ -65,6 +65,28 @@ npm install npm:@lendkzn/xntaabail
 npm i @lendkzn/xntaabail
 ```
 
+Import This To Your Index And Package:
+
+```javascript
+Npm Version
+Index :
+╰➤ "@lendkzn/xntaabail"
+package json :
+╰➤ "@lendkzn/xntaabail": "^6.0.0"
+
+Npm Version V2
+Index :
+╰➤ "@whiskeysockets/baileys"
+package json :
+╰➤ "@whiskeysockets/baileys" : "npm:@lendkzn/xntaabail"
+
+Github Version :
+Index :
+╰➤ "@whiskeysockets/baileys"
+package json :
+╰➤ "@whiskeysockets/baileys" : "github:LendKzn/xntaabail"
+```
+
 Then import and initialize:
 
 ```javascript
