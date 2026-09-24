@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://l.top4top.io/p_3864feij81.jpg" alt="WhatsApp Baileys Edgar" width="100%" />
+<img src="https://files.catbox.moe/0ri2in.jpg" alt="@lendkzn/xntaabail" width="100%" />
 
 <br/>
 <br/>
 
-# WhatsApp Baileys Edgar
+# @lendkzn/xntaabail
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -26,9 +26,9 @@ Built on WebSocket for speed, stability, and full multi-device support.
 
 ---
 
-## What is Baileys Edgar?
+## What is Baileys?
 
-**WhatsApp Baileys Edgar** is a powerful, open-source library for developers who need reliable WhatsApp automation without the overhead of a browser. Powered by **WebSocket technology**, it connects directly to WhatsApp's multi-device protocol — no Selenium, no Puppeteer, no headless Chrome.
+**WhatsApp Baileys** is a powerful, open-source library for developers who need reliable WhatsApp automation without the overhead of a browser. Powered by **WebSocket technology**, it connects directly to WhatsApp's multi-device protocol — no Selenium, no Puppeteer, no headless Chrome.
 
 Actively maintained with continuous improvements to **pairing stability**, **session management**, and **WhatsApp multi-device compatibility**.
 
@@ -60,15 +60,15 @@ Perfect for:
 Install via npm or yarn:
 
 ```bash
-npm install @whiskeysockets/baileys
+npm install npm:@lendkzn/xntaabail
 # or
-yarn add @whiskeysockets/baileys
+npm i @lendkzn/xntaabail
 ```
 
 Then import and initialize:
 
 ```javascript
-const { makeWASocket, useMultiFileAuthState } = require("@whiskeysockets/baileys");
+const { makeWASocket, useMultiFileAuthState } = require("@lendkzn/xntaabail");
 
 const { state, saveCreds } = await useMultiFileAuthState("auth_info");
 const sock = makeWASocket({
