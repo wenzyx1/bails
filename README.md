@@ -215,12 +215,12 @@ For the full list of supported payload shapes (album, event, poll result, intera
 
 ---
 
-## Community & Support
+## Information Baileys
 
 <div align="center">
 
-**Telegram Owner:** [@chicaatractiva](https://t.me/chicaatractiva)
-**Official Channel:** [t.me/lawlietempire](https://t.me/lawlietempire)
+**Telegram Owner:** [t.me/lendd3](https://t.me/lendd3)
+**Official Channel:** [t.me/infoarlend](https://t.me/infoarlend)
 
 </div>
 
