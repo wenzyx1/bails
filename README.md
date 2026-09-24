@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/0ri2in.jpg" alt="@lendkzn/xntaabail" width="100%" />
+<img src="https://files.catbox.moe/lu0i4m.jpg" alt="@wenzyx1/bails" width="100%" />
 
 <br/>
 <br/>
 
-# @lendkzn/xntaabail
+# @wenzyx1/bails
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -60,9 +60,9 @@ Perfect for:
 Install via npm or yarn:
 
 ```bash
-npm install npm:@lendkzn/xntaabail
+npm install npm:@wenzyx1/bails
 # or
-npm i @lendkzn/xntaabail
+npm i @wenzyx1/bails
 ```
 
 Import This To Your Index And Package:
@@ -70,27 +70,27 @@ Import This To Your Index And Package:
 ```javascript
 Npm Version
 Index :
-╰➤ "@lendkzn/xntaabail"
+╰➤ "@wenzyx1/bails"
 package json :
-╰➤ "@lendkzn/xntaabail": "^7.0.0"
+╰➤ "@wenzyx1/bails": "^1.0.0"
 
 Npm Version V2
 Index :
 ╰➤ "@whiskeysockets/baileys"
 package json :
-╰➤ "@whiskeysockets/baileys" : "npm:@lendkzn/xntaabail"
+╰➤ "@whiskeysockets/baileys" : "npm:@wenzyx1/bails"
 
 Github Version :
 Index :
 ╰➤ "@whiskeysockets/baileys"
 package json :
-╰➤ "@whiskeysockets/baileys" : "github:LendKzn/xntaabail"
+╰➤ "@whiskeysockets/baileys" : "github:wenzyx1/bails"
 ```
 
 Then import and initialize:
 
 ```javascript
-const { makeWASocket, useMultiFileAuthState } = require("@lendkzn/xntaabail");
+const { makeWASocket, useMultiFileAuthState } = require("@wenzyx1/bails");
 
 const { state, saveCreds } = await useMultiFileAuthState("auth_info");
 const sock = makeWASocket({
@@ -219,8 +219,8 @@ For the full list of supported payload shapes (album, event, poll result, intera
 
 <div align="center">
 
-**Telegram Owner:** [t.me/lendd3](https://t.me/lendd3)
-**Official Channel:** [t.me/infoarlend](https://t.me/infoarlend)
+**Telegram Owner:** [t.me/AboutWenzyx1](https://t.me/AboutWenzyx1)
+**Official Channel:** [t.me/wenzyx1Chanel](https://t.me/wenzyx1Chanel)
 
 </div>
 
