@@ -72,7 +72,7 @@ Npm Version
 Index :
 ╰➤ "@lendkzn/xntaabail"
 package json :
-╰➤ "@lendkzn/xntaabail": "^6.0.0"
+╰➤ "@lendkzn/xntaabail": "^7.0.0"
 
 Npm Version V2
 Index :
