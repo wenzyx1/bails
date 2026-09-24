@@ -20,7 +20,7 @@ Built on WebSocket for speed, stability, and full multi-device support.
 
 <br/>
 
-[Installation](#getting-started) • [Documentation](#sendmessage-documentation) • [Features](#main-features) • [Telegram Owner](https://t.me/lendd3) • [Channel](https://t.me/infoarlend)
+[Installation](#getting-started) • [Documentation](#sendmessage-documentation) • [Features](#main-features) • [Telegram Owner](https://t.me/AboutWenzyx1) • [Channel](https://t.me/wenzyx1Chanel)
 
 </div>
 
