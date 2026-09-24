@@ -1,6 +1,6 @@
 {
-    "name": "@lendkzn/xntaabail",
-    "version": "7.0.0",
+    "name": "@wenzyx1/bails",
+    "version": "1.0.0",
     "description": "WhatsApp API Modification By Arlend",
     "keywords": [
         "whatsapp",
@@ -12,9 +12,9 @@
         "botwa",
         "stvnnvs"
     ],
-    "homepage": "https://github.com/LendKzn/xntaabail",
+    "homepage": "https://github.com/wenzyx1/bails",
     "repository": {
-        "url": "https://github.com/LendKzn/xntaabail"
+        "url": "https://github.com/wenzyx1/bails"
     },
     "license": "MIT",
     "author": "Arlend",
