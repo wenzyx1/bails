@@ -107,7 +107,7 @@ sock.ev.on("creds.update", saveCreds);
 
 ## Supported Message Types
 
-Baileys Edgar can send and receive **every single WhatsApp message type that exists** — nothing is left out. Main ones include:
+The baileys can send and receive **every single WhatsApp message type that exists** — nothing is left out. Main ones include:
 
 - Text, image, video, audio, document, sticker, GIF/video note (PTV)
 - Location & live location
